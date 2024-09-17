@@ -1,3 +1,8 @@
+# 2024/09/17 This repo has been sunset as there is no longer a need for it.
+
+TLS and security supports have been included as a standard in ElasticSearch for a long time. The original
+reasons for this repo is no longer valid.
+
 # Search Guard Security Plugin
 Elasticsearch security for free.
 
